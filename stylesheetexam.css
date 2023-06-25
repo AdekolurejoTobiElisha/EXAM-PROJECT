@@ -1,0 +1,2898 @@
+.Herosection {
+  background: #ffffff;
+  width: 2567px;
+  height: 1098px;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  box-sizing: border-box;
+  left: 130px;
+}
+
+.logo {
+  padding: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.Vector1 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.VectorAlt {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.logoText {
+  color: #0065fe;
+  text-align: left;
+  position: relative;
+  width: 99px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: "Gilroy-Bold";
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.Frame1643 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.URL {
+  color: #0065fe;
+  text-align: left;
+  font-family: "Gilroy-Medium";
+  position: relative;
+  width: 69px;
+  height: 22px;
+  font-size: 17px;
+  line-height: 21px;
+}
+
+.Group8 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 24px;
+  position: static;
+  box-sizing: border-box;
+}
+
+.Chevon {
+  position: absolute;
+  left: 185px;
+  top: 0px;
+  overflow: visible;
+  width: 24px;
+  height: 24px;
+}
+
+.features {
+  color: #141414;
+  text-align: left;
+  font-family: "Gilroy-Medium";
+  position: absolute;
+  left: 109px;
+  top: 1px;
+  font-size: 18px;
+  line-height: 21px;
+  width: 72px;
+  height: 22px;
+}
+
+.Vector3 {
+  position: absolute;
+  left: -25%;
+  right: 25%;
+  top: 37.5%;
+  bottom: 37.5%;
+  overflow: visible;
+  height: 6px;
+  width: 12px;
+}
+
+.pricing {
+  color: #141414;
+  text-align: left;
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 21px;
+  height: 22px;
+  width: 56px;
+  left: 249px;
+}
+
+.analytics {
+  color: #141414;
+  text-align: left;
+  width: 76px;
+  height: 22px;
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 21px;
+  left: 345px;
+}
+
+.faqs {
+  text-align: left;
+  width: 43px;
+  height: 22px;
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 21px;
+  left: 461px;
+}
+
+.Frame1645 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Login {
+  color: #0065fe;
+  text-align: left;
+  width: 45px;
+  height: 20px;
+  font-family: "Gilroy-SemiBold";
+  font-size: 16px;
+  line-height: 19px;
+  top: 12px;
+  overflow: hidden;
+}
+
+.ButtonTryfree {
+  background: #0065fe;
+  border-color: white;
+  border-radius: 100px;
+  padding: 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+  height: 44px;
+  left: 69px;
+}
+
+.buttonTextTry {
+  color: #ffffff;
+  text-align: left;
+  width: 79px;
+  height: 12px;
+  font-family: "Gilroy-SemiBold";
+  font-size: 16px;
+  line-height: 12px;
+  left: 31.5px;
+}
+
+.Group2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 833px;
+  height: 336.57px;
+  left: 429px;
+  top: 614px;
+}
+
+.frame29546 {
+  background: rgba(254, 254, 254, 0.1);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: #005ae2;
+  border-width: 0.5px;
+  padding: 40px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  backdrop-filter: blur(106px);
+  box-sizing: border-box;
+  opacity: 0.6;
+  left: -170px;
+  width: 768px;
+  height: 224px;
+}
+
+.frame1716 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  width: 384px;
+  height: 80px;
+  justify-content: flex-start;
+  position: relative;
+  width: 384px;
+  height: 80px;
+  top: 71px;
+  bottom: 73px;
+}
+
+.Frame7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 224px;
+  height: 80px;
+}
+
+.link2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+  width: 80px;
+  height: 80px;
+}
+
+.link22 {
+  margin: 0 0 0 -8px;
+  position: relative;
+  overflow: visible;
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+}
+
+.link23 {
+  margin: 0 0 0 -8px;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+  box-sizing: border-box;
+}
+
+.line7 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-1px, -5.77px);
+  overflow: visible;
+  width: 40px;
+  left: -4px;
+  top: 5px;
+}
+
+.ink24 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+  width: 80px;
+  height: 80px;
+  left: 304px;
+  box-sizing: border-box;
+}
+
+.frame10001716Text {
+  width: 648px;
+  height: 48px;
+  font-family: "Gilroy-Medium";
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  margin: 136px 60px 40px 60px;
+  justify-content: center;
+  position: relative;
+  top: -65px;
+  left: -55px;
+  font-weight: bold;
+  color: black;
+}
+
+.Vector2 {
+  position: absolute;
+  overflow: visible;
+  width: 238.55px;
+  height: 251.2px;
+  opacity: 0.68;
+  left: -1px;
+  z-index: -1;
+}
+
+.Group3 {
+  position: relative;
+  overflow: visible;
+  width: 1440px;
+  height: 93px;
+  left: 100px;
+  top: 931px;
+}
+
+.Elipse1 {
+  width: 1250px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 956px;
+  background: linear-gradient(
+    180deg,
+    rgba(226, 233, 240, 0.7) 10.68%,
+    rgba(220, 228, 235, 0.7) 44.01% rgba(226, 233, 240, 0) 100%
+  );
+  top: -60px;
+  left: -355px;
+  margin: 20px 228px 24px 258px;
+  position: absolute;
+}
+
+.Rectangle9 {
+  position: absolute;
+  width: 1440px;
+  height: 93px;
+  top: -60px;
+  background: #f8f7f7;
+  overflow: visible;
+  opacity: 0.2;
+}
+
+.frame100001650 {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  left: 170px;
+}
+
+.frame1000001647 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.Group1 {
+  width: 948px;
+  height: 200px;
+  position: absolute absolute;
+}
+
+.optimizeText {
+  text-align: center;
+  font-size: 48px;
+  font-family: "Gilroy-Bold";
+  line-height: 96px;
+  position: relative;
+  width: 948px;
+  height: 200px;
+}
+
+.optimizeSpan2 {
+  color: #005ae2;
+}
+
+.Vector4 {
+  position: absolute;
+  left: 397px;
+  top: 167.9px;
+  overflow: visible;
+}
+
+.personalisedText {
+  text-align: center;
+  font-size: 21px;
+  font-family: "Gilroy-Medium";
+  line-height: 28px;
+  position: relative;
+  width: 781px;
+  height: 105px;
+}
+.frame1000001648 {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  left: 480px;
+}
+
+.SignUpButton {
+  background: #0065fe;
+  border-radius: 100px;
+  border-color: #0065fe;
+  padding: 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+  height: 44px;
+  overflow: hidden;
+}
+
+.SignUpButtonText {
+  color: #fff;
+  font-size: 18px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 12px;
+  text-align: left;
+}
+
+.LearnMore {
+  color: #0065fe;
+  font-size: 18px;
+  font-family: "Gilroy-SemiBold";
+}
+
+.aurora {
+  box-sizing: border-box;
+  width: 1058px;
+  height: 404.897px;
+  position: absolute;
+  left: 100px;
+}
+
+.aurora1 {
+  border-radius: 293px;
+  background: #eac81f;
+  filter: blur(350px);
+  width: 271px;
+  height: 293px;
+  left: 191px;
+}
+
+.aurora2 {
+  border-radius: 215.08px;
+  background: #067808;
+  filter: blur(350px);
+  width: 199.104px;
+  height: 215.08px;
+  left: 461px;
+  top: 11.9px;
+}
+
+.aurora3 {
+  width: 199.104px;
+  height: 215.08px;
+  border-radius: 215.08px;
+  background: #d60505;
+  filter: blur(350px);
+  left: 978px;
+  top: 111.9px;
+}
+
+.Desktop10 {
+  display: inline-flex;
+  padding: 0px 0px 130px 0px;
+  flex-direction: column;
+  align-items: center;
+  gap: 128px;
+  width: 1440px;
+  height: 852px;
+  box-sizing: border-box;
+}
+
+.frame100001703 {
+  display: flex;
+  flex-direction: row;
+  gap: 96px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  width: 1202px;
+  height: 504px;
+  margin: 348px 118px 130px 120px;
+  top: -1100px;
+  left: -90px;
+}
+
+.frame100001691 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: relative;
+  width: 398px;
+  height: 256px;
+  margin-right: 96px;
+  right: -50px;
+}
+
+.frame10001652 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  width: 398px;
+  height: 48px;
+  margin-bottom: 16px;
+}
+.Line70 {
+  position: relative;
+}
+.why-choose-scissors {
+  text-align: left;
+  color: #141414;
+  font-size: 40px;
+  font-family: "Gilroy-Bold";
+  line-height: 32px;
+  position: relative;
+}
+
+.whyChooseScissorsSpan2 {
+  color: #005ae2;
+}
+
+.ScissorIsHub {
+  display: flex;
+  width: 370px;
+  height: 192px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 17px;
+  font-family: "Gilroy-Medium";
+  line-height: 28px;
+  position: relative;
+}
+
+.frame100001702 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 64px;
+  justify-content: flex-start;
+  position: relative;
+  margin-left: 96px;
+}
+
+.frame1000001699 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  margin-bottom: 64px;
+  left: -150px;
+}
+
+.frame100001694 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  margin-right: 28px;
+}
+
+.Group6 {
+  width: 56px;
+  height: 56px;
+  position: static;
+  margin-bottom: 40px;
+}
+
+.linkAfterElipse {
+  position: absolute;
+  margin: 16px;
+  overflow: visible;
+}
+.Elipse2 {
+  width: 56px;
+  height: 56px;
+  border-radius: 56px;
+  background: rgba(50, 132, 255, 0.13);
+  position: absolute;
+}
+
+.Frame5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  justify-content: flex-start;
+  position: relative;
+  width: 340px;
+  height: 124px;
+  margin-top: 40px;
+  top: -50px;
+}
+
+.URLShortening {
+  color: #141414;
+  font-size: 32px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 28px;
+  position: relative;
+  text-align: left;
+}
+
+.Frame5texta {
+  display: flex;
+  width: 340px;
+  height: 80px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 16px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+}
+
+.frame100001697 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  justify-content: flex-start;
+  position: relative;
+  width: 340px;
+  height: 211px;
+  margin-left: 28px;
+}
+
+.Frame16995 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  width: 56px;
+  height: 56px;
+  margin-bottom: 40px;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.edit {
+  position: absolute;
+  overflow: visible;
+  width: 24px;
+  height: 24px;
+  margin: 16px;
+}
+
+.Frame1696 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  width: 340px;
+  height: 115px;
+  justify-content: flex-start;
+  position: relative;
+  margin-top: 40px;
+  top: -50px;
+}
+
+.CustomURLs {
+  color: #141414;
+  font-size: 32px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 28px;
+  text-align: left;
+  width: 193px;
+  height: 28px;
+}
+
+.WithScissorYouCanCreateCustomURLs {
+  display: flex;
+  width: 340px;
+  height: 71px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 16px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+}
+
+.frame1000001701 {
+  display: flex;
+  align-items: flex-start;
+  gap: 28px;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+  width: 708px;
+  height: 220px;
+  margin-top: 64px;
+}
+
+.frame100001698 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  width: 340px;
+  height: 220px;
+  justify-content: flex-start;
+  position: relative;
+  margin-right: 28px;
+  left: -150px;
+  top: -120px;
+}
+
+.Frame1695 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  width: 56px;
+  height: 56px;
+  margin-bottom: 40px;
+}
+
+.grid {
+  position: absolute;
+  overflow: visible;
+  width: 24px;
+  height: 24px;
+  margin: 16.1px 16.2px 15.9px 15.8px;
+}
+
+.QRCode {
+  color: #141414;
+  font-size: 32px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 28px;
+  width: 149px;
+  height: 28px;
+  text-align: left;
+  position: relative;
+}
+
+.GenerateQRcodes {
+  display: flex;
+  width: 340px;
+  height: 80px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 16px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+}
+
+.frame100001700 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  justify-content: flex-start;
+  width: 340px;
+  height: 220px;
+  position: relative;
+  left: -115px;
+  top: -120px;
+}
+
+.Frame1000001718 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  justify-content: flex-start;
+  position: relative;
+  width: 56px;
+  height: 56px;
+  margin-bottom: 40px;
+}
+
+.activitySvg {
+  width: 24px;
+  height: 24px;
+  margin: 16px;
+}
+
+.Frame10001671 {
+  width: 340px;
+  height: 124px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  justify-content: flex-start;
+  top: -50px;
+}
+
+.DataAnalytics {
+  color: #141414;
+  font-size: 32px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 28px;
+  text-align: left;
+  position: relative;
+}
+
+.ReceiveDataOnThe {
+  display: flex;
+  width: 340px;
+  height: 80px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 17px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+  position: relative;
+}
+
+.frame1000001693 {
+  display: flex;
+  flex-direction: row;
+  padding: 60px 140px;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  background: #f9fbfd;
+  position: relative;
+  margin: 0px -3px 762px -3px;
+  width: 1166px;
+  height: 100px;
+}
+
+.frame100001692 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: 337px;
+  height: 96px;
+  margin: 60px 120px 60px 140px;
+  position: relative;
+  right: -90px;
+}
+
+.one-stop-four-possibilities {
+  display: flex;
+  width: 337px;
+  height: 96px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 40px;
+  font-family: "Gilroy-Bold";
+  line-height: 48px;
+}
+
+.oneStopFourSpan {
+  color: #141414;
+}
+.one-stop-four-possibilities-span2 {
+  color: #005ae2;
+}
+
+.frame1000001715 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 72px;
+  width: 709px;
+  height: 100px;
+  margin: 60px 140px 60px 120px;
+  position: relative;
+  left: -50px;
+}
+
+.frame100001668 {
+  display: flex;
+  padding: 0px 4px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 72px;
+  width: 238px;
+  height: 100px;
+  margin-right: 72px;
+}
+
+.Frame4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 88px;
+  height: 68px;
+  margin-right: 72px;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.frame3M {
+  color: #141414;
+  font-size: 35px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 40px;
+  text-align: left;
+  position: relative;
+}
+
+.ActiveUsers {
+  color: #141414;
+  font-size: 19px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+}
+
+.Frame--5 {
+  display: flex;
+  height: 100px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 123px;
+  height: 100px;
+  left: -50px;
+}
+
+.frame60M {
+  color: #141414;
+  font-size: 35px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 40px;
+  width: 64px;
+  height: 40px;
+  text-align: left;
+}
+
+.LinksQRCodesCreated {
+  display: flex;
+  width: 123px;
+  height: 52px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 19px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+  position: relative;
+}
+
+.frame100001690 {
+  display: flex;
+  flex-direction: row;
+  padding: 0px 4px;
+  justify-content: center;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 72px;
+  width: 338px;
+  height: 100px;
+  margin-left: 72px;
+  position: relative;
+  left: -60px;
+}
+
+.frame100001670 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 143px;
+  height: 100px;
+  margin-right: 72px;
+  margin-left: 4px;
+}
+
+.frame1000001669 {
+  display: flex;
+  align-items: flex-start;
+  gap: 44px;
+  width: 143px;
+  height: 100px;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.Frame--6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 143px;
+  height: 100px;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.frame1B {
+  color: #141414;
+  font-size: 35px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 40px;
+  position: relative;
+}
+
+.ClickedScannedConnections {
+  display: flex;
+  width: 143px;
+  height: 56px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 18px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+  text-align: left;
+}
+
+.frame--7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  width: 123px;
+  height: 68px;
+}
+
+.frame300k {
+  color: #141414;
+  font-size: 35px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 40px;
+  text-align: left;
+  position: relative;
+}
+
+.AppIntegrations {
+  color: #141414;
+  font-size: 20x;
+  font-family: "Gilroy-SemiBold";
+  line-height: 24px;
+  text-align: left;
+}
+
+.Desktop1 {
+  display: flex;
+  width: 1440px;
+  padding: 42px 176px 112px 176px;
+  flex-direction: column;
+  align-items: center;
+  gap: 68px;
+  width: 1440px;
+  height: 1073px;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+  top: 90px;
+}
+
+.Group9D {
+  border-radius: 12px;
+  margin: 96px 72px 0px 72px;
+  position: absolute;
+  display: inline-flex;
+  top: 180px;
+}
+
+.Desktop-10Basic {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #005ae2;
+  border-width: 0.4px;
+  width: 350px;
+  height: 455px;
+  position: relative;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  top: 80px;
+  left: 394px;
+  z-index: -1;
+}
+
+.Basic {
+  color: #141414;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+  position: absolute;
+  left: 80px;
+  top: 26px;
+}
+
+.frame1000001712Free {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  width: 198px;
+  height: 320px;
+  margin: 90px 98px 45px 87px;
+}
+
+.frame1000001705Free {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 194px;
+  height: 88px;
+}
+
+.Free {
+  color: #141414;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Gilroy-Bold";
+  line-height: 48px;
+}
+
+.FreePlanForAllUsers {
+  color: #141414;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.frame1000001711bas {
+  display: flex;
+  flex-direction: column;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 186px;
+  height: 216px;
+}
+
+.free10b1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 186px;
+  height: 24px;
+}
+
+.checkCircleB1 {
+  margin-right: 8px;
+}
+
+.UnlimitedURLShortening {
+  color: #141414;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001707bas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 149px;
+  height: 24px;
+}
+
+.checkCircleB2 {
+  margin-right: 7px;
+}
+
+.BasicLinkAnalytics {
+  color: #141414;
+  text-align: center;
+  font-size: 14px;
+  font-family: Gilroy-Medium;
+  line-height: 24px;
+}
+
+.frame1000001708bas {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 184px;
+  height: 24px;
+}
+
+.checkCircleB3 {
+  margin-right: 8px;
+}
+
+.CustomizableShortLinks2 {
+  color: #000;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001709bas {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 141px;
+  height: 24px;
+}
+
+.checkCircleB4 {
+  margin-right: 8px;
+}
+
+.StandardSupport {
+  color: #000;
+  text-align: center;
+  font-size: 14px;
+  font-family: Gilroy-Medium;
+  line-height: 24px;
+}
+
+.frame1000001710bas {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 116px;
+  height: 24px;
+}
+
+.checkCircle5 {
+  margin-right: 8px;
+}
+
+.Ad-supported {
+  color: #000;
+  text-align: center;
+  font-size: 14px;
+  font-family: Gilroy-Medium;
+  line-height: 24px;
+}
+
+.Desktop12tt {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #005ae2;
+  border-width: 0.4px;
+  width: 350px;
+  height: 455px;
+  position: relative;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  z-index: -1;
+  top: 80px;
+  left: 754px;
+}
+
+.Teams {
+  color: #141414;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+  position: absolute;
+  left: 80px;
+  top: 26px;
+}
+
+.frame1000001712vv {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  width: 227px;
+  height: 320px;
+  left: 86px;
+  top: 92px;
+  margin: 92px 66px 43px 86px;
+}
+
+.frame1000001705vv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 227px;
+}
+
+.ff25DollarMonth {
+  color: #141414;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Gilroy-Bold";
+  line-height: 48px;
+}
+
+.ShareWithUpTo10Users {
+  color: #141414;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.frame1000001711vv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 212px;
+  height: 216px;
+}
+
+.frame1000001706vv {
+  width: 152px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.checkCircleS1 {
+  margin: 8px;
+}
+
+.TeamCollaboration2 {
+  color: #141414;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001707vv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 196px;
+  height: 24px;
+}
+
+.checkCircleS2 {
+  margin-right: 12px;
+}
+
+.UserRolesAndPermissions {
+  color: #141414;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.Frame1000001708vv {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 145px;
+  height: 24px;
+}
+
+.checkCircleS3 {
+  margin-right: 8px;
+}
+
+.EnhancedSecurity2 {
+  color: #141414;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.Frame1000001709vv {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 93px;
+  height: 24px;
+}
+
+.checkCircleS4 {
+  margin-right: 8px;
+}
+
+.APIAccess2 {
+  color: #141414;
+  text-align: center;
+  font-size: 13px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001710vv {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 212px;
+  height: 24px;
+}
+
+.checkCircleS5 {
+  margin-right: 8px;
+}
+
+.DedicatedAccountManager {
+  color: #141414;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.Desktop11Group {
+  display: inline-flex;
+  padding: 95px 106px 148px 65px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #1e3448 99.99%, rgba(30, 52, 72, 0) 100%);
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.05);
+  width: 239px;
+  height: 384px;
+  margin-right: 750px;
+}
+
+.Professional {
+  color: #fff;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+  position: absolute;
+}
+
+.frame1000001712GG {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 239px;
+  height: 328px;
+  bottom: 150px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+}
+
+.frame1000001705g {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 239px;
+  height: 88px;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.F15DollarMonth {
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Gilroy-Bold";
+  line-height: 48px;
+}
+
+.IdealForBusinessCreators {
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.frame1000001711E {
+  display: flex;
+  width: 200px;
+  height: 216px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  top: 100px;
+}
+
+.frame1000001706W {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.checkCircle {
+  margin-right: 8px;
+}
+
+.EnhancedLinkAnalytics {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001707W {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 169px;
+  height: 24px;
+}
+
+.checkCircle2 {
+  margin-right: 7px;
+}
+
+.CustomBrandedDomains {
+  color: #fff;
+  text-align: center;
+  font-size: 13px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001708w {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  width: 215px;
+  height: 24px;
+}
+
+.checkCircle3 {
+  margin-right: 8px;
+}
+
+.AdvancedLinkCustomization {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001709dd {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 125px;
+  height: 24px;
+}
+
+.checkCircle4 {
+  margin-right: 8px;
+}
+
+.PrioritySupport {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001710rr {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 149px;
+  height: 24px;
+}
+
+.checkCircle5 {
+  margin-right: 8px;
+}
+
+.Ad-freeExperience {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.frame1000001719G {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  width: 412px;
+  height: 48px;
+  margin: 913px 514px 112px 514px;
+  position: relative;
+  right: 20px;
+}
+
+.frame1000001719ButtonWhite {
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #0065fe;
+  border-width: 1px;
+  padding: 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+}
+
+.GetCustomPricingText {
+  color: var(--primary-300-base, #0065fe);
+  font-size: 16px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 12px;
+}
+
+.frame1000001719ButtonBlue {
+  border-radius: 100px;
+  background: #0065fe;
+  padding: 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+}
+
+.SelectPricingButtonText {
+  color: #fff;
+  font-size: 16px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 12px;
+}
+
+.frame1000001713 {
+  width: 576px;
+  height: 108px;
+  margin: 42x 432px 923px 432px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  justify-content: flex-start;
+  position: relative;
+  box-sizing: border-box;
+  top: -1050px;
+  right: 55px;
+}
+
+.Line701713 {
+  overflow: visible;
+  margin-right: 16px;
+}
+
+.frame1000001673 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 560px;
+  height: 108px;
+  justify-content: flex-start;
+}
+
+.a-price-perfect-for-your-needs {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Gilroy-Bold";
+  line-height: 48px;
+  position: relative;
+  color: #141414;
+}
+
+.priceSpan2 {
+  color: #005ae2;
+}
+
+.FromCateringForYourPersonal {
+  display: flex;
+  width: 556px;
+  height: 52px;
+  flex-direction: column;
+  color: #141414;
+  text-align: center;
+  font-size: 17px;
+  font-family: "Gilroy-Medium";
+  line-height: 24px;
+}
+
+.Desktop11A {
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgba(30, 52, 72, 1) 99.98999834060669%,
+    rgba(30, 52, 72, 0) 100%
+  );
+  width: 1440px;
+  height: 523px;
+  position: relative;
+  overflow: hidden;
+  top: 150px;
+}
+
+.Group2a {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1119.23px;
+  top: -84.48px;
+  transform: translate(-604.38px, 84.48px);
+  overflow: visible;
+}
+
+.Group3a {
+  opacity: 0.5;
+  position: absolute;
+  left: -760.2px;
+  top: 127.05px;
+  transform: translate(760.2px, -127.05px);
+  overflow: visible;
+}
+
+.frame1000001725u {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 476px;
+  height: 355px;
+  position: absolute;
+  left: 482px;
+  top: 83.5px;
+}
+
+.frame1000001727u {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: absolute;
+  left: 42px;
+  top: 42px;
+  width: 392px;
+  height: 127px;
+}
+
+.frame1000001653u {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #3284ff;
+  border-width: 1px;
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 392px;
+  height: 55px;
+  position: relative;
+  /*overflow: hidden;*/
+}
+
+.frame1000001652u {
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  width: 91px;
+  height: 18px;
+}
+
+.FF1653aText {
+  color: #3284ff;
+  text-align: left;
+  font-size: 12px;
+  font-family: "Gilroy-Medium";
+  line-height: 18px;
+  position: relative;
+}
+
+.frame1000001655u {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.dropDown {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #3284ff;
+  border-width: 1px;
+  padding: 18px 20px 18px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 122px;
+  height: 1px;
+  position: relative;
+}
+
+.ChooseDomain {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 0;
+  color: #3284ff;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 12px;
+}
+
+.vectorDown {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.frame1000001654u {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #3284ff;
+  border-width: 1px;
+  padding: 15px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 132px;
+  height: 15px;
+}
+.TypeAliasHere {
+  color: #3284ff;
+  font-size: 12px;
+  font-family: "Gilroy-Medium";
+  line-height: 18px;
+}
+
+.frame1000001726u {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 42px;
+  top: 193px;
+}
+
+.TrimUrlButton {
+  background: #005ae2;
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 325px;
+  position: relative;
+  overflow: hidden;
+  left: 10px;
+}
+
+.TrimURLText {
+  color: #fff;
+  font-size: 14px;
+  font-family: "Gilroy-SemiBold";
+  line-height: 12px;
+}
+
+.boldTerms {
+  font-weight: bold;
+}
+
+.magicwand {
+  display: flex;
+  padding: 4px;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.ByclickingTrimURL {
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 392px;
+  position: relative;
+  color: #4991ff;
+  font-size: 14px;
+  font-family: "Gilroy-Medium";
+  line-height: 20px;
+}
+
+.FAQsDesktop {
+  background: #ffffff;
+  width: 1440px;
+  height: 1153px;
+  position: relative;
+  overflow: hidden;
+  top: 120px;
+}
+
+.Frame1653Faq {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 320px;
+  top: 35px;
+}
+
+.SS1652Faq {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.s1652FaqVector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.ffFAQs {
+  color: #141414;
+  font-size: 40px;
+  font-family: "Gilroy-Bold;";
+  line-height: 32px;
+}
+
+.dd1651Faq {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.Frame73 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.Frame72 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.HowDoesURLshortening {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 0;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.minus {
+  position: relative;
+  overflow: visible;
+}
+
+.URLShorteningWorks {
+  display: flex;
+  width: 792px;
+  height: 63px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 18px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+  position: relative;
+  text-align: left;
+}
+
+.Frame72Vector {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame78 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.IsItNecessaryToCreateAccount {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 0;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector42 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame80 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.AreTheShortenedLinksPermanent {
+  display: flex;
+  width: 742px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector43 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame84 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.AreThereAnyLimitations {
+  display: flex;
+  width: 741px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector44 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame79 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.fCanICustomizeShortenedURLs {
+  display: flex;
+  width: 744px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector45 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame81 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.ttCanITrackThePerformance {
+  display: flex;
+  width: 744px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector46 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame82 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.Frame722 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 70px;
+  position: relative;
+}
+
+.HowSecureIsURLShortening {
+  display: flex;
+  width: 740px;
+  height: 54px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector47 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame83 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+
+.WhatIsQRCode {
+  display: flex;
+  width: 745px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector48 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.IsThereAnAPIAvailable {
+  display: flex;
+  width: 742px;
+  height: 53px;
+  flex-direction: column;
+  color: #141414;
+  font-size: 20px;
+  font-family: "Gilroy-Medium";
+  line-height: 32px;
+}
+
+.plus8 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Frame72Vector49 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Group3Faq {
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 349.5px;
+  top: 106.15px;
+  transform: translate(-349.5px, -106.15px);
+  overflow: visible;
+}
+
+.Group2Faq {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1066px;
+  top: 820.27px;
+  transform: translate(0px, -106.27px);
+  overflow: visible;
+}
+
+.footerRectangle {
+  box-sizing: border-box;
+  width: 1440px;
+  height: 299px;
+  position: relative;
+  overflow: hidden;
+}
+
+.RectangleONE {
+  background: linear-gradient(
+    180deg,
+    rgba(30, 52, 72, 1) 99.98999834060669%,
+    rgba(30, 52, 72, 0) 100%
+  );
+  width: 1440px;
+  height: 400px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 199.5px);
+}
+
+.Group3Rectangle {
+  opacity: 0.5;
+  position: absolute;
+  left: -342.26px;
+  top: 24.87px;
+  transform: translate(342.26px, -24.87px);
+  overflow: visible;
+}
+
+.Group2Rectangle {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1085.38px;
+  top: -97.5px;
+  transform: translate(-224.28px, 97.5px);
+  overflow: visible;
+}
+
+.yy1654 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 403px);
+  top: 109px;
+}
+
+.RevolutionizingLinkOptimization {
+  display: flex;
+  width: 806px;
+  height: 57px;
+  flex-direction: column;
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  font-family: Gilroy-Bold;
+  line-height: 48px;
+}
+
+.GetStartedButton {
+  background: #005ae2;
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 200px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+
+.GetStartedText {
+  color: white;
+}
+
+.footer {
+  background: v, #ffffff;
+  width: 1440px;
+  height: 561px;
+  position: relative;
+  overflow: hidden;
+}
+
+.fo1665 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 294px);
+  top: 95px;
+}
+
+.fo1662 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.frowhyScissor {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.whyScissorText {
+  color: #071827;
+  text-align: left;
+  font-size: 16px;
+  font-family: Gilroy-Bold;
+  line-height: 24px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-weight: bold;
+}
+
+.lists {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.SCISSOR101 {
+  color: #112232;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Resource {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.ResourcesText {
+  color: #071827;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Bold";
+  font-weight: bold;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  right: -20px;
+}
+
+.listsB {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  width: 137px;
+  height: 72px;
+  position: relative;
+  right: -20px;
+}
+
+.Blog22 {
+  color: #112232;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.gg1663 {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.Solutions {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.SolutionsText {
+  color: #071827;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Bold";
+  font-weight: bold;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.socialmedia {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Features1 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.Features1Text {
+  color: #071827;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Bold";
+  font-weight: bold;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.lists2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.brandedlinks {
+  color: var, #112232;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.ss1664 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.products {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.productsText {
+  color: #071827;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Bold";
+  font-weight: bold;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.linkmanagement {
+  color: #112232;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.legal {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 163px;
+  height: 152px;
+  position: relative;
+  top: 45px;
+}
+
+.legalText {
+  color: #071827;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Bold";
+  font-weight: bold;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  right: 23px;
+}
+
+.PrivacyPolicy {
+  color: #112232;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  right: 25px;
+}
+
+.company {
+  display: flex;
+  padding: 0px 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100px;
+  height: 172px;
+  top: -322px;
+  right: -250px;
+  position: relative;
+}
+
+.companyText {
+  color: #071827;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Bold";
+  position: relative;
+  width: 94px;
+  height: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  font-weight: bold;
+}
+
+.AboutScissor {
+  color: #112232;
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.tt1714 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 203px;
+  top: 95px;
+}
+
+.ttlogo {
+  padding: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.logoVector1 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.logoVector2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.logoscissor {
+  color: #141414;
+  text-align: left;
+  font: 400 24px/32px "Gilroy-Bold";
+  position: relative;
+  width: 99px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.socials {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.TwitterVector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.InstagramVector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.linkedinVector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.facebookVector {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.Group2Footer {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 897px;
+  top: 309.27px;
+  transform: translate(0px, -106.27px);
+  overflow: visible;
+}
+
+.Group3Footer {
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 507.5px;
+  top: 229.15px;
+  transform: translate(-507.5px, -209.15px);
+  overflow: visible;
+}
+
+.rew1666 {
+  padding: 0px 12px 0px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1017px;
+  top: 502px;
+}
+
+.term-of-service {
+  color: #112232;
+  text-align: left;
+  font: 400 14px/20px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Gvector-5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.security {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 14px/20px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Gvector-6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+
+.scissor-2023 {
+  color: #112232;
+  text-align: left;
+  font: 400 14px/20px "Gilroy-Medium";
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
